@@ -1,0 +1,5 @@
+from enum import Enum
+
+MONITOR_WIDTH = 1920
+MONITOR_HEIGHT = 1080
+WINDOW_NAME = "原神"
